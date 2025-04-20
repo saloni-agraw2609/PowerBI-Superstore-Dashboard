@@ -1,0 +1,8 @@
+📄 Insights from Superstore Sales Dashboard
+"Sales and profit peaked in October and December, indicating strong year-end performance possibly driven by festive season demand."
+
+"The West region generated the highest sales and profit overall, making it the top-performing region."
+
+"Technology emerged as the most profitable category, while Furniture had lower profits despite moderate sales."
+
+"The Central and South regions showed decent sales, but profit margins were lower—possibly due to higher discounting or operational costs."
